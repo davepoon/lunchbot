@@ -1,0 +1,22 @@
+{
+  "name": "lunchbot",
+  "version": "1.0.0",
+  "description": "We can never decide where to eat for lunch, so this bot will tell us what to do. Or at least make a suggestion.",
+  "main": "lunchbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davepoon/lunchbot.git"
+  },
+  "author": "Dave Poon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davepoon/lunchbot/issues"
+  },
+  "homepage": "https://github.com/davepoon/lunchbot#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
